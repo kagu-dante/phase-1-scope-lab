@@ -13,3 +13,4 @@ const leastFavoriteCustomer = 'max'
 function changeLeastFavoriteCustomer(){
     leastFavoriteCustomer = 'bob'
 }
+
